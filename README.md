@@ -1,4 +1,4 @@
 # git-tut
 First repo
 <br>
-Author-Srushti
+Author-Srushti(Naik)
